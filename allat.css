@@ -1,5 +1,5 @@
 
-/* * *  Külsõ keret formázása  * * */
+/* * *  Kï¿½lsï¿½ keret formï¿½zï¿½sa  * * */
 
 
     body
@@ -54,7 +54,7 @@
 
 
 
-/* * *  Belsõ keret formázása  * * */
+/* * *  Belsï¿½ keret formï¿½zï¿½sa  * * */
 
 
     body#belso
@@ -81,7 +81,7 @@
 
 
 
-/* * *  Belsõ keret: lista és képek-bekezdések formázása  * * */
+/* * *  Belsï¿½ keret: lista ï¿½s kï¿½pek-bekezdï¿½sek formï¿½zï¿½sa  * * */
 
 
     body#belso div#lista ul
@@ -128,3 +128,4 @@
 	text-align        :  justify             ;
     }
 
+  
